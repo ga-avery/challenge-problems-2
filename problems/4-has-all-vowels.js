@@ -12,7 +12,8 @@ hasAllVowels('hello world'); // => false
 ***********************************************************************/
 
 function hasAllVowels(str) {
-
+  const set = new Set(str)
+  return 'aeiou'.split('').every(letter => set.has(letter))
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/

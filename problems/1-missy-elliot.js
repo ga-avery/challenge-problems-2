@@ -10,7 +10,7 @@ missyElliot(lyricsArr); // I put my thang down flip it and reverse it
 ***********************************************************************/
 
 function missyElliot(array) {
-
+  return array.map(el => el.split('').reverse().join('')).reverse().join(' ');
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/

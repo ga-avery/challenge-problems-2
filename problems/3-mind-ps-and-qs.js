@@ -18,7 +18,19 @@ mindPsAndQs('PPPXQPPPQ'); // => 5
 
 
 function mindPsAndQs(str) {
-
+  if (str !== str.toUpperCase())
+    return 'only uppercase strings are allowed';
+  let [count, max] = [0, 0];
+  for (const letter of str) {
+    if ('PQ'.includes(letter)) {
+      count++;
+      max = Math.max(count, max);
+    } else {
+      max = Math.max(count, max);
+      count = 0;
+    }
+  }
+  return max;
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/

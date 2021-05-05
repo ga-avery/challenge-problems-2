@@ -19,7 +19,12 @@ isPrime(303212); // => false
 ***********************************************************************/
 
 function isPrime(number) {
-
+  for(let i = 2; i <= Math.sqrt(number); i++) {
+    if (number % i === 0) {
+      return false
+    }
+  }
+  return number > 1;
 }
 
 /***********************************************************************
@@ -34,7 +39,13 @@ firstNPrimes(4); // => [2, 3, 5, 7]
 ***********************************************************************/
 
 function firstNPrimes(n) {
-
+  const nPrimes = []
+  for (let i = 2; nPrimes.length !== n; i++) {
+    if (isPrime(i)) {
+      nPrimes.push(i)
+    }
+  }
+  return nPrimes
 }
 
 /***********************************************************************
@@ -49,7 +60,7 @@ sumOfNPrimes(4); // => 17
 ***********************************************************************/
 
 function sumOfNPrimes(n) {
-
+  return firstNPrimes(n).reduce((acc, num) => acc + num, 0)
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/

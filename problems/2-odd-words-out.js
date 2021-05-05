@@ -8,7 +8,7 @@ oddWordsOut('what is the answer'); // => 'what is answer'
 ***********************************************************************/
 
 function oddWordsOut(sentence) {
-
+  return sentence.split(/\s+/g).filter(word => word.length % 2 === 0).join(' ')
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/

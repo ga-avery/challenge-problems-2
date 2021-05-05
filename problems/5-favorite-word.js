@@ -13,7 +13,11 @@ favoriteWord('x', 'sinful caesar sipped his snifter') //=> ''
 ***********************************************************************/
 
 function favoriteWord(favoriteLetter, sentence) {
-
+  const regex = new RegExp(`${favoriteLetter}`, 'g');
+  const splitSentence = sentence.split(/\s+/g);
+  const counts = splitSentence.map(word => word.match(regex)?.length || 0);
+  const max = Math.max(...counts);
+  return max > 0 ? splitSentence[counts.indexOf(max)] : '';
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
