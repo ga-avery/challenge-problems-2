@@ -2,6 +2,12 @@
 
 The goal of this deliverable is to further sharpen your problem solving skills.
 
+![Missy Elliot](https://i.pinimg.com/originals/ba/8f/47/ba8f4772afad0332121b801640df1f36.gif)
+
+**Image**: [Pintrest](https://www.pinterest.com/pin/183521753545102084/)
+
+
+
 ## `1` Problem Set
 
 Complete problems inside `problems` folder
