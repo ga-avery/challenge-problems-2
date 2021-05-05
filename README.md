@@ -4,10 +4,6 @@ The goal of this deliverable is to further sharpen your problem solving skills.
 
 ![Missy Elliot](https://i.pinimg.com/originals/ba/8f/47/ba8f4772afad0332121b801640df1f36.gif)
 
-**Image**: [Pintrest](https://www.pinterest.com/pin/183521753545102084/)
-
-
-
 ## `1` Problem Set
 
 Complete problems inside `problems` folder
@@ -66,3 +62,5 @@ Provide the following solutions with `code` snippets or `text` inside of `expres
 - [ ] `5` [Express Templates](https://romebell.gitbook.io/sei-412/node-express/00readme-1/01intro-to-express/04templates)
 - [ ] `6` [Express EJS Templates Codealong](https://romebell.gitbook.io/sei-412/node-express/00readme-1/01intro-to-express/04templates)
 - [ ] `7` [Official Express Documentation](https://expressjs.com)
+
+**Image**: Missy Elliott - Supa Dupa Fly June Abrose Costume Designer [Pintrest](https://www.pinterest.com/pin/183521753545102084/)
