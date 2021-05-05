@@ -15,9 +15,10 @@ Complete problems inside `problems` folder
 ## `2` Run Test
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
 
+
 #### File Structure
 ```text
-.
+├── README.md
 ├── problems
     └── 1-missy-elliot.js
     └── 2-odd-words-out.js
