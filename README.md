@@ -14,27 +14,7 @@ Complete problems inside `problems` folder
 
 ## `2` Run Test
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
-1-missy-elliot.js
-Move problems into folders
-1 hour ago
 
-2-odd-words-out.js
-Move problems into folders
-1 hour ago
-
-3-mind-ps-and-qs.js
-Move problems into folders
-1 hour ago
-
-4-has-all-vowels.js
-Move problems into folders
-1 hour ago
-
-5-favorite-word.js
-add favorite word problem
-25 minutes ago
-
-6-decomposing-functions.js
 #### File Structure
 ```text
 .
