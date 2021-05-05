@@ -13,6 +13,8 @@ Complete problems inside `problems` folder
 - [ ] `6` Decomposing Functions - [What is a Prime Number?](https://youtu.be/1xHbTDuXB5o)
 
 ## `2` Run Test ☕️
+
+![Example of Running Mocha](https://user-images.githubusercontent.com/13144457/117192918-1e014a00-ad97-11eb-890e-40cce8eef9cc.png)
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
 **Note**: Be sure to run `mocha` on the top level
 
