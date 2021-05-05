@@ -52,3 +52,11 @@ Provide the following solutions with `code` snippets or `text` inside of `expres
     └── grade.js
     └── try_require.js   
 ```
+#### Resources
+- [ ] `1` [Hello Express](https://git.generalassemb.ly/romebell/hello-express)
+- [ ] `2` [Intro to Express Repo](https://git.generalassemb.ly/SEI-412/Intro-to-Express)
+- [ ] `3` [Express Views Notes](https://romebell.gitbook.io/sei-412/node-express/00readme-1/01intro-to-express/03views)
+- [ ] `4` [Express Views Codealong](https://git.generalassemb.ly/SEI-412/express_views_codealong/tree/code-along-solution)
+- [ ] `5` [Express Templates](https://romebell.gitbook.io/sei-412/node-express/00readme-1/01intro-to-express/04templates)
+- [ ] `6` [Express EJS Templates Codealong](https://romebell.gitbook.io/sei-412/node-express/00readme-1/01intro-to-express/04templates)
+- [ ] `7` [Official Express Documentation](https://expressjs.com)
