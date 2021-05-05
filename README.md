@@ -14,7 +14,7 @@ Complete problems inside `problems` folder
 
 ## `2` Run Test ☕️
 
-![Example of Running Mocha](https://user-images.githubusercontent.com/13144457/117192918-1e014a00-ad97-11eb-890e-40cce8eef9cc.png)
+![Example of Running Mocha](https://user-images.githubusercontent.com/13144457/117193570-dfb85a80-ad97-11eb-8b08-a1f580ea3334.png)
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
 **Note**: Be sure to run `mocha` on the top level
 
