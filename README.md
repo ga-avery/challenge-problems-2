@@ -10,7 +10,7 @@ Complete problems inside `problems` folder
 - [ ] `3` Mind Ps & Qs
 - [ ] `4` Has All Vowels
 - [ ] `5` Favorite Word
-- [ ] `6` Decomposing Functions | `isPrime()`
+- [ ] `6` Decomposing Functions - [What is a Prime Number?](https://youtu.be/1xHbTDuXB5o)
 
 ## `2` Run Test
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
