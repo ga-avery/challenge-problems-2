@@ -14,11 +14,13 @@ Complete problems inside `problems` folder
 
 ## `2` Run Test
 - [ ] Run `mocha` to view pass ✅ or fail ❎ on each problem inside of the `problems` folder
+**Note**: Be sure to run `mocha` on the top level
 
 
 #### File Structure
 ```text
 ├── README.md
+├── express-answers.md
 ├── problems
     └── 1-missy-elliot.js
     └── 2-odd-words-out.js
@@ -32,3 +34,18 @@ Complete problems inside `problems` folder
     └── grade.js
     └── try_require.js   
 ```
+## `3` Express Questions
+
+Provide the following solutions with `code` snippets or `text` inside of `express-answers.md`
+
+- [ ] `1` What dependency do we use to create a server? (`text`)
+- [ ] `2` What dependency do we use to fetch data from an API? (`text`)
+- [ ] `3` Provide a example for making a server with a home route. (`code`)
+- [ ] `4` Provide a route that uses `req.params`. (`code`)
+- [ ] `5` Provide a route that uses some data and returns `json` to the client. (`code`)
+- [ ] `6` Provide a route that will be ideal for a `404` page. (`code`)
+- [ ] `7` Where is a good location within our Express App to place the route for a `404` page. (`text`)
+- [ ] `8` Provide a route that renders a *static* `index.html` file (`code`)
+- [ ] `9` What dependency is used for Express Templating? (`text`)
+- [ ] `10` Provide a route that renders an `ejs` page. (`code`)
+- [ ] `11` Provide an exmaple of an `ejs` page that includes `<%=` syntax for sending data to view template (`code`)
