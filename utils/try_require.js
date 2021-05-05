@@ -3,11 +3,11 @@
 
 function tryRequire(modulePath) {
   try {
-    let f = require(modulePath);
+    var f = require(modulePath);
   }
   catch (err) {
     console.log(modulePath.slice(3), '-', err.name);
-    let f = function() {};
+    var f = function() {};
   }
   return f;
 }
